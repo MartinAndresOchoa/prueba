@@ -17,3 +17,8 @@ Se actualiza a la plataforma git con `git push`
   x<-rnorm(100)
   hist(x)
 ```
+
+
+Definicion de esperanza matematica
+
+$$E(X)=\int xdFx$$
